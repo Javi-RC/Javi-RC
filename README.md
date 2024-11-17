@@ -25,5 +25,6 @@ Soy un estudiante de **Ingeniería Informática** apasionado por la tecnología 
 ## ⚡ Datos curiosos
 - Me gusta colaborar en proyectos y compartir conocimientos.
 - Siempre busco nuevas formas de optimizar y mejorar el rendimiento de mis aplicaciones.
+- Me apasiona el campo de la **inteligencia artificial**.
 
 ¡Gracias por visitar mi perfil 😉!

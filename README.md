@@ -24,9 +24,6 @@ Soy un estudiante de **Ingeniería Informática** apasionado por la tecnología 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
 
 
-## 📊 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Javi-RC&show_icons=true&theme=radical)
-
 ## 🌱 Contribuciones a código
 ![Contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=Javi-RC)
 

@@ -1,10 +1,11 @@
-# ¡Hola, soy Javier! 👋
+# ¡Hola, soy Javi-RC! 👋
 
 Soy un estudiante de **Ingeniería Informática** apasionado por la tecnología y el desarrollo de software. Me encanta explorar nuevas áreas y trabajar en proyectos que me permitan mejorar mis habilidades.
 
 ## 🚀 Sobre mí
 - 🎓 Actualmente estudio **Ingeniería Informática**, con la intensificación en **ingeniería del software**.
 - 💡 Me interesan temas como el desarrollo de **aplicaciones web**.
+- Me apasiona el campo de la **inteligencia artificial**.
 
 ## 🛠️ Tecnologías y Herramientas
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
@@ -22,9 +23,11 @@ Soy un estudiante de **Ingeniería Informática** apasionado por la tecnología 
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
 
-## ⚡ Datos curiosos
-- Me gusta colaborar en proyectos y compartir conocimientos.
-- Siempre busco nuevas formas de optimizar y mejorar el rendimiento de mis aplicaciones.
-- Me apasiona el campo de la **inteligencia artificial**.
+
+## 📊 Estadísticas de GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Javi-RC&show_icons=true&theme=radical)
+
+## 🌱 Contribuciones a código
+![Contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=Javi-RC)
 
 ¡Gracias por visitar mi perfil 😉!

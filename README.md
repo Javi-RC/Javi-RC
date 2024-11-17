@@ -1,4 +1,4 @@
-# ¡Hola, soy Javi-RC! 👋
+# ¡Hola, soy Javier! 👋
 
 Soy un estudiante de **Ingeniería Informática** apasionado por la tecnología y el desarrollo de software. Me encanta explorar nuevas áreas y trabajar en proyectos que me permitan mejorar mis habilidades.
 
